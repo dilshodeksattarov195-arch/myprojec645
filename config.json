@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routerdonnect",
+        "uuid": 5196765,
+        "checksum": "tcadj"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
